@@ -1,0 +1,1 @@
+This repository contains flexible tools that can be used to play quantum games. The ``prisoners_dilemma_example'' notebook demostrates the step dy step workflow with a simple two player prisoners dilemma example simulated on a noiseless simulator.
